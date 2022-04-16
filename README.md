@@ -18,3 +18,12 @@
 |14    |repository  | Collection of files of different version of a project                                                                  |                                    
 |15    |stash       | Stash will move your modified files into a stack                                                                       |
  
+
+
+mohamadreza
+
+|number|question    | answer                                                                                                                            |
+| :--- | :----------| :-----------------------------------------------------------------------------------------------------------------:               |
+|16    |clone       | Allows us to copy repository from github to our local repositoty                                                                  |
+|17    |rebase      | Rebase and merge are same but rebase compresses all the changes into one patch, and then merges the patch into a target directory.|
+|18    |cherrypick  | We use this command to join the commit from branch to other branch                                                                |
